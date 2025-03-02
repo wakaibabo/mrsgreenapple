@@ -79,6 +79,7 @@ var namMember = new Array(
 "<br>春愁</br>",
 "<br>Log</br>",
 "<br>WanteD! WanteD!(KERENMI Remix)</br>",
+"<br>WanteD! WanteD!</br>",
 "<br>WHOO WHOO WHOO</br>",
 "<br>光のうた</br>",
 "<br>スマイロブドリーマ</br>",
